@@ -2,7 +2,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        // Create videos
+        // Create video instances
         Video video1 = new Video("How to Cook Pasta", "Chef John", 600);
         Video video2 = new Video("Travel Vlog: Italy", "Alice Adventures", 900);
         Video video3 = new Video("Learn C# Programming", "Code Academy", 1200);
